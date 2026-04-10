@@ -8,7 +8,7 @@ Sou desenvolvedor de software com foco na construção de aplicações escaláve
 
 ### Conhecimento
 
-#### ⚙️ **Backend & Infrastructure:**
+### ⚙️ **Backend**
 
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -17,7 +17,7 @@ Sou desenvolvedor de software com foco na construção de aplicações escaláve
 ![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 🎨 **Frontend & Styling:**
+### 🎨 **Frontend**
 
 ![Angular](https://img.shields.io/badge/angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
